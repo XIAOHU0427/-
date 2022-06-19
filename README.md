@@ -308,6 +308,12 @@
 - [面试官：说说你对代理模式的理解？应用场景？](https://github.com/febobo/web-interview/issues/294)
 - [面试官：说说你对发布订阅、观察者模式的理解？区别？](https://github.com/febobo/web-interview/issues/295)
 
+
+
+<h3 style="text-align: center">开放性问题</h3>
+- [面试官:如何获取一个页面所用到的全部标签]()
+
+
 ## 👧 更多系列
 
 ### 面试官手写系列/精选33道
