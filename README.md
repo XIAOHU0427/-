@@ -1,7 +1,3 @@
-
-<p align="center">
-<img width="300px"  style="max-width:300px; width:300px;" src="https://static.vue-js.com/21494410-8e11-11eb-ab90-d9ae814b240d.png"/>
-</p>
 <p align="center">
   <a href="https://github.com/febobo/web-interview/stargazers"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg" alt="Statr"></a>
 <a href="https://github.com/febobo/web-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=vue" alt="vue"></a>
