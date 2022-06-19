@@ -27,7 +27,7 @@
 - [面试官：说说你对vue的理解?](https://github.com/febobo/web-interview/issues/1)
 - [面试官：说说你对双向绑定的理解?](https://github.com/febobo/web-interview/issues/2)
 - [面试官：说说你对SPA（单页应用）的理解?](https://github.com/febobo/web-interview/issues/3)
-- [面试官：Vue中的v-show和v-if怎么理解？](https://github.com/febobo/web-interview/issues/4)
+- [**面试官：Vue中的v-show和v-if怎么理解？**](https://github.com/febobo/web-interview/issues/4)
 - [面试官：Vue实例挂载的过程中发生了什么?](https://github.com/febobo/web-interview/issues/5)
 - [面试官：说说你对Vue生命周期的理解?](https://github.com/febobo/web-interview/issues/6)
 - [面试官：为什么Vue中的v-if和v-for不建议一起用?](https://github.com/febobo/web-interview/issues/7)
