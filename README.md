@@ -56,6 +56,7 @@
 - [面试官：Vue项目如何部署？有遇到布署服务器后刷新404问题吗？](https://github.com/febobo/web-interview/issues/31)
 - [面试官：你是怎么处理vue项目中的错误的？](https://github.com/febobo/web-interview/issues/32)
 - [面试官：Vue3有了解过吗？能说说跟Vue2的区别吗？](https://github.com/febobo/web-interview/issues/33)
+- [面试官:说说你对路由生命周期的理解]()
 
 <h3 style="text-align: center" align="center">Vue3系列</h3>
 
