@@ -170,7 +170,7 @@
 - [面试官：DNS协议 是什么？说说DNS 完整的查询过程?](https://github.com/febobo/web-interview/issues/141)
 - [面试官：如何理解CDN？说说实现原理？](https://github.com/febobo/web-interview/issues/142)
 - [面试官：说说 HTTP1.0/1.1/2.0 的区别?](https://github.com/febobo/web-interview/issues/143)
-- [面试官：说说HTTP 常见的状态码有哪些，适用场景？](https://github.com/febobo/web-interview/issues/144)
+- [**面试官：说说HTTP 常见的状态码有哪些，适用场景？**](https://github.com/febobo/web-interview/issues/144)
 - [面试官：说一下 GET 和 POST 的区别？](https://github.com/febobo/web-interview/issues/145)
 - [面试官：说说 HTTP 常见的请求头有哪些? 作用？](https://github.com/febobo/web-interview/issues/149)
 - [面试官：说说地址栏输入 URL 敲下回车后发生了什么？](https://github.com/febobo/web-interview/issues/150)
